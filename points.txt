@@ -1,5 +1,5 @@
 Exercise, Points
-51,
+51, 1
 52,
 53,
 54,
